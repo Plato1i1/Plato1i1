@@ -45,16 +45,3 @@ Here are the technologies and tools I work with:
 - Developing tools that solve real-world problems efficiently.
 
 Thank you for visiting my profile! 😊
-
-
----
-
-Next Steps:
-
-1. If the content looks good, I’ll save it to a README.md file for you.
-
-
-2. Do you already have the Plato1i1/Plato1i1 repository, or should I guide you on creating it?
-
-
-
