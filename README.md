@@ -35,8 +35,8 @@ Here are the technologies and tools I work with:
 ## 📫 How to Reach Me  
 - 🌐 [Portfolio](https://plato.app/nyna2orxrvsr)  
 - 📧 Email: albarraq415@gmail.com  
-- 💼 LinkedIn: [Your LinkedIn Link]  
-
+- 💼 web: (https://plato.app/en)
+,
 ---
 
 ## 🎯 Future Goals  
