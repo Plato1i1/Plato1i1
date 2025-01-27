@@ -19,19 +19,6 @@ Here are the technologies and tools I work with:
 
 ---
 
-## 🔗 Featured Projects  
-### [Project Name 1](#)  
-**Description**: [Brief explanation of the project].  
-- 🛠 **Tech Stack**: Django, SQLite, Bootstrap  
-- 📂 **Repository**: [Link here]  
-
-### [Project Name 2](#)  
-**Description**: [Brief explanation of the project].  
-- 🛠 **Tech Stack**: React, Node.js, MongoDB  
-- 📂 **Repository**: [Link here]  
-
----
-
 ## 📫 How to Reach Me  
 - 🌐 [Portfolio](https://plato.app/nyna2orxrvsr)  
 - 📧 Email: albarraq415@gmail.com  
