@@ -1,43 +1,17 @@
-# 👋 Welcome to My GitHub Profile!
+# Come for the Games, Stay for the People
 
-## About Me  
-I am **Plato1i1**, a **Full Stack Developer** with expertise in building efficient, scalable, and user-friendly applications. I am passionate about delivering high-quality software solutions, contributing to open-source projects, and continuously learning new technologies.
+## Plato’s Story
 
-- 🌟 **Focused On**: Web Development, Scalable Applications, and Open Source.  
-- 🔭 **Currently Working On**: Building impactful tools and learning advanced frameworks.  
-- 📖 **Learning**: React.js, Docker, and DevOps best practices.  
+In the early days of the Internet, our founders created the original Yahoo! Games and grew it to be the largest online games portal of its day. It was amazingly gratifying to witness so many people around the world playing games and connecting on such a large scale.
 
----
+In 2014, we re-formed as Plato with the same DNA to continue the same mission - bringing people closer together through great games.
 
-## 🚀 Skills  
-Here are the technologies and tools I work with:  
-![Python](https://img.shields.io/badge/Code-Python-blue)  
-![Django](https://img.shields.io/badge/Framework-Django-green)  
-![SQL](https://img.shields.io/badge/Database-SQL-orange)  
-![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow)  
-![Git](https://img.shields.io/badge/Tools-Git-red)
+Fast forward to today, we are humbled that millions of players are enjoying our games and creating lasting friendships daily on Plato.
 
----
+[See more about Plato](https://platoapp.com/about/)
 
-## 📫 How to Reach Me  
-- 🌐 [Portfolio](https://plato.app/nyna2orxrvsr)  
-- 📧 Email: albarraq415@gmail.com  
-- 💼 Web: [https://plato.app/en](https://plato.app/en)  
+## Join our mission!
 
----
+If you like what we're doing and would like to chat about joining Plato, we'd love to talk to you!
 
-## 🎯 Future Goals  
-- Contributing more to open-source communities.  
-- Mastering containerization (Docker) and CI/CD pipelines.  
-- Developing tools that solve real-world problems efficiently.
-
----
-
-## 🏆 Plato Mobile App
-- **Description**: This section is dedicated to the development and contributions to the Plato mobile application, which aims to enhance user experience and provide innovative features. 
-- **Current Focus**: Enhancing user experience and building new features for the Plato app.
-- **Repository**: [Plato App Repository](https://platoapp.com/en)  
-
----
-
-Thank you for visiting my profile! 😊
+[See Careers](https://platoapp.com/careers/)
